@@ -24,3 +24,7 @@
 
 * Submit a final analysis.
 
+
+
+## Sources:
+While completing this assignment I used Stack Overflow, BCS Learning Assistant and had some assistance from a tutor.
